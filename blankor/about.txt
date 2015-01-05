@@ -1,0 +1,4 @@
+Theme name:    Blankor
+Description:   Blankor is a blank theme for Anchor CMS. Based on the default theme by Visual Idiot.
+Author name:   Scott Fahrig
+Author site:   http://fahrig.co
